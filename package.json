@@ -1,0 +1,27 @@
+{
+  "name": "web-cv-diaz-rodrigo",
+  "version": "1.0.0",
+  "description": "Curriculum vitae de Rodrigo Martin Diaz en version web con distintos idiomas",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rodrigomdiaz92/Web-CV-Diaz-Rodrigo.git"
+  },
+  "keywords": [
+    "CV",
+    "Curriculum",
+    "Resume",
+    "Diaz",
+    "Rodrigo",
+    "Martin"
+  ],
+  "author": "Diaz Rodrigo Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rodrigomdiaz92/Web-CV-Diaz-Rodrigo/issues"
+  },
+  "homepage": "https://github.com/Rodrigomdiaz92/Web-CV-Diaz-Rodrigo#readme"
+}
