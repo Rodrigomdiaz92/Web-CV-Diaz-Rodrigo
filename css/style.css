@@ -7,3 +7,44 @@
 }
 
 /*# sourceMappingURL=style.css.map */
+
+main{
+  margin-top: 4rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  
+}
+
+
+#home{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows:  1fr;
+    div{
+      width: 50%;
+      img{
+        width: 100%;
+        border-radius: 50%;
+      }
+    }
+    
+
+  }
+
+  #introduccion{
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 40px;
+  }
+
+  #porfolio{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+  }
+
+  #estudios{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+
+  }
